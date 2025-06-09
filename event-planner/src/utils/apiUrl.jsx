@@ -9,7 +9,7 @@ export const optionSelect= [
     { value: "ep", label: "Exposicion"},
     { value: "fv", label: "Festival"},
     { value: "dp", label: "Deportivo"},
-    { value: "sb", label: "Subasta" },
-    { value: "bd", label: "Boda" },
+    { value: "sb", label: "Presencial" },
+    { value: "bd", label: "Virtual" },
     { value: "otro", label: "Otro"}
   ];
